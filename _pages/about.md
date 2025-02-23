@@ -11,10 +11,10 @@ I am a contracual PhD student in philosophy of science at AHP-PReST (Archives He
 
 My research is dedicated to the methodology of lab experiments in economics.
 
-Title
+Research interests
 ======
+- Philosophy of experimental economics
+- General philosophy of science
 
-Subtitle
-------
 
 
