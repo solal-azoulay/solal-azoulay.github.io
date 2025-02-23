@@ -6,7 +6,8 @@
 
 main: 
   - title: "Research"
-    url: /research/
+  url: /files/CV-2025.pdf
+    #url: /research/
 
   - title: "CV"
     url: /cv/
