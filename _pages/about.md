@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About
+=====
 
 I am a contractual PhD student in philosophy of science at [AHP-PReST](https://poincare.univ-lorraine.fr/) in Strasbourg University since october 2023.
 
