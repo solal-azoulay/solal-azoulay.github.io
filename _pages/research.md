@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Philosophy of experimental economics
-====================
+- Philosophy of experimental economics
+- History of experimental economics
 
-Local history of experimental economics
-===================
