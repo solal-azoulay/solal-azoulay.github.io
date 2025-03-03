@@ -10,7 +10,7 @@ author_profile: true
 Master of cognitive science, Bordeaux, 3h
 - **Philosophy of science** (*lectures and tutorials*)   
 Second year degree in MIASHS, Bordeaux, 16h
-- **Philosophy of science** (*lectures and tutorials*)   
+- **Philosophy of science** (*lectures*)   
 First year degree in CPES, Strasbourg, 12h
 
 2023-2024
