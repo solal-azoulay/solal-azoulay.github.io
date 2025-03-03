@@ -14,4 +14,4 @@ Book chapters
 Book reviews
 ============
 - Azoulay, S. (2023). Compte rendu de : Allamel-Raffin & *al* (2022). *L’expérimentation dans les sciences*, Éditions Matériologiques   
-*[Lato sensu, Revue de la Société de Philosophie des Sciences](https://ojs.uclouvain.be/index.php/latosensu)* [PDF](https://solal-azoulay.github.io/files/CR-Solal-Azoulay-2024.pdf)
+*[Lato sensu, Revue de la Société de Philosophie des Sciences](https://ojs.uclouvain.be/index.php/latosensu)* [PDF](https://ojs.uclouvain.be/index.php/latosensu/article/view/74323/71263)
