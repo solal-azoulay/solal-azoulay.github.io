@@ -9,4 +9,4 @@ author_profile: true
 - **(2025)** (*upcoming*) "How does a scientific discipline becomes "objective" ? The case of experimental economics", with Catherine Allamel-Raffin and Jean-Luc Gangloff
 [Congress of the French Society for the History of Science and Technology](https://sfhstnancy2025.sciencesconf.org/)
 - **(2024)** "Does experimental economics (really) study *ceteris paribus* laws ?",   
-Archives Henri Poincaré Scientific Days.
+[Archives Henri Poincaré](https://poincare.univ-lorraine.fr) Scientific Days.
