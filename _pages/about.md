@@ -8,7 +8,7 @@ redirect_from:
 ---
 About
 =====
-![Faculté de philosophie de Strasbourg](files/philo-unistra.jpg){: .align-right width="250 px"}   
+![Faculté de philosophie de Strasbourg](files/philo-unistra.jpg){: .align-right width="300 px"}   
 
 I am a PhD student in philosophy of science at [AHP-PReST](https://poincare.univ-lorraine.fr/) in Strasbourg University since october 2023.
 
