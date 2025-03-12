@@ -13,7 +13,7 @@ Book chapters
 
 Work in progress
 ------------
-- Azoulay, S. (*manuscrit under preparation*). "Does experimental economics (really) study *ceteris paribus* laws ?"
+- Azoulay, S. (*manuscrit in preparation*). "Does experimental economics (really) study *ceteris paribus* laws ?"
 
 Book reviews
 ------------
