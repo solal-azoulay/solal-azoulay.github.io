@@ -4,7 +4,7 @@ title: "Communications"
 permalink: /Communications/
 author_profile: true
 ---
-- **(2025)** (*upcoming*) "Producing economic knowledge using experiments"",   
+- **(2025)** (*upcoming*) "Producing economic knowledge using experiments",   
 [Congress of the French Association for Sociology (AFS)](https://afs-socio.fr/congres/toulouse2025/)
    
 - **(2025)** (*upcoming*) "Does experimental economics (really) study *ceteris paribus* laws ?",   
