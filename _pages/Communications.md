@@ -4,7 +4,7 @@ title: "Communications"
 permalink: /Communications/
 author_profile: true
 ---
-(_All french titles below have been translated in english_)     
+(_All French titles below have been translated_)     
 
 - **(2025)** (*upcoming*) "Producing economic knowledge using experiments",   
 [Congress of the French Association for Sociology (AFS)](https://afs-socio.fr/congres/toulouse2025/)
