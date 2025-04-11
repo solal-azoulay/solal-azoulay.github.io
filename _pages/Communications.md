@@ -14,9 +14,9 @@ author_profile: true
    
 - **(2025)** **Organisation of Symposium** : "History of experimental economics : results and prospects"    
   [Congress of the French Society for the History of Science and Technology (SFHST)](https://sfhstnancy2025.sciencesconf.org/)
+   - (Jullien, Dorian & Truc, Alexandre) "History of Behavioral and Experimental Economics in France"
    - (Azoulay, Solal) "A local history of experimental economics : the case of BETA laboratory in Strasbourg (1989-2012)"
    - (Azoulay, Solal, Allamel-Raffin, Catherine & Gangloff, Jean-Luc) "How does a scientific discipline become "objective" ? The case of experimental economics"
-   - (Jullien, Dorian & Truc, Alexandre) "History of Behavioral and Experimental Economics in France"
    
 - **(2024)** "Does experimental economics (really) study *ceteris paribus* laws ?",   
 [Archives Henri Poincaré](https://poincare.univ-lorraine.fr) Scientific Days.
