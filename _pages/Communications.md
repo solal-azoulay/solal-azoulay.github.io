@@ -16,7 +16,7 @@ author_profile: true
 [Congress of the French Association for Analytic Philosophy (SoPha)](https://sopha2025.sciencesconf.org/), 1 july 2025.   
 
 - "How does a scientific discipline become "objective" ? The case of experimental economics" (with Allamel-Raffin, C., Gangloff, J.-L. & Igersheim, H.)   
-  [Seminar “Comparative epistemology of the production of scientific objectivity”](https://www.misha.fr/recherche/programmes-scientifiques-misha/programme-de-recherche-2024-2025/epistemologie-comparee-des-formes-de-production-de-lobjectivite-scientifique), 22 april 2025.
+  [Seminar “Comparative epistemology of scientific objectivity”](https://www.misha.fr/recherche/programmes-scientifiques-misha/programme-de-recherche-2024-2025/epistemologie-comparee-des-formes-de-production-de-lobjectivite-scientifique), 22 april 2025.
    
 - **Organisation of Symposium** : "History of experimental economics : results and prospects"    
   [Congress of the French Society for the History of Science and Technology (SFHST)](https://sfhstnancy2025.sciencesconf.org/), 10 april 2025.
