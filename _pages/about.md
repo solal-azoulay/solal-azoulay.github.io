@@ -8,7 +8,7 @@ redirect_from:
 ---
 About
 =====
-I am a PhD student in philosophy of science at [AHP-PReST](https://poincare.univ-lorraine.fr/) in Strasbourg University since october 2023.   
+I am a PhD student in philosophy of science at [AHP-PReST](https://poincare.univ-lorraine.fr/) in Strasbourg University since October 2023.   
 
    ![Faculté de philosophie de Strasbourg](files/philo-unistra.jpg){: .align-center width="285px"}   
    
