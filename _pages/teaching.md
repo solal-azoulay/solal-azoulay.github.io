@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+2025-2026
+------------
+- **Sociology of science** (*lectures*)   
+Master of history and philosophy science, Strasbourg, 4h
+
 2024-2025
 ------------
 - **Philosophy of science** (*seminar*)   
