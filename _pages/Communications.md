@@ -12,7 +12,7 @@ author_profile: true
 - (*upcoming*) "Producing economic knowledge using experiments",   
 [Congress of the French Association for Sociology (AFS)](https://afs-socio.fr/congres/toulouse2025/), 9 july 2025.
    
-- (*upcoming*) "Does experimental economics (really) study *ceteris paribus* laws ?",   
+- "Does experimental economics (really) study *ceteris paribus* laws ?",   
 [Congress of the French Association for Analytic Philosophy (SoPha)](https://sopha2025.sciencesconf.org/), 1 july 2025.   
 
 - "How does a scientific discipline become "objective" ? The case of experimental economics" (with Allamel-Raffin, C., Gangloff, J.-L. & Igersheim, H.)   
