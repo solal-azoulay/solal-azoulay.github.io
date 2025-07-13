@@ -10,7 +10,7 @@ redirect_from:
 Philosophy of experimental economics
 -----------
    
-I study the methodological and practical principles guiding the experimental method in economics (especially lab experiments), comparing with other disciplines such as psychology.   
+I study the methodological and practical principles guiding the experimental method in economics (especially lab experiments).   
    
 My research is in line with the work of [Guala (2005)](https://www.cambridge.org/core/books/methodology-of-experimental-economics/1333D78666AE8C93062FB80AF0A41CCC), [Bardsley & *al* (2009)](https://press.princeton.edu/books/hardcover/9780691124797/experimental-economics) and [Hausman (2023)](https://www.cambridge.org/core/books/inexact-and-separate-science-of-economics/D72C7ED18808BB691895934A9881740B). In particular, I focus on experiments giving rise to "social preference" models, such as the dictator game or the ultimatum game.
 
