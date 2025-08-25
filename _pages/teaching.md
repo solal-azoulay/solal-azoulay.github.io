@@ -8,6 +8,10 @@ author_profile: true
 ------------
 - **Sociology of science** (*lectures*)   
 Master of history and philosophy science, Strasbourg, 4h
+- **Philosophy of science** (*lectures*)   
+First year degree in CPES, Strasbourg
+- **Philosophy of economics** (*lectures*)   
+Master of economics and management, Strasbourg, 4h30
 
 2024-2025
 ------------
