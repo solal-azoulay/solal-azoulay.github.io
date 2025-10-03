@@ -19,7 +19,7 @@ Work in progress
 
 Book reviews
 ------------
-- Azoulay, S. (*forthcoming*). Review of : Hausman, D. (2022). *[The Inexact and Separate Science of Economics]([https://link.springer.com/book/10.1007/978-3-031-58505-0](https://www.cambridge.org/core/books/inexact-and-separate-science-of-economics/D72C7ED18808BB691895934A9881740B))*, Cambridge University Press   
+- Azoulay, S. (*forthcoming*). Review of : Hausman, D. (2022). *[The Inexact and Separate Science of Economics](https://www.cambridge.org/core/books/inexact-and-separate-science-of-economics/D72C7ED18808BB691895934A9881740B)*, Cambridge University Press   
 *[Lato sensu, Revue de la Société de Philosophie des Sciences](https://ojs.uclouvain.be/index.php/latosensu)* [PDF](https://ojs.uclouvain.be/index.php/latosensu)
 - Azoulay, S. (2023). Review of : Allamel-Raffin, C. & *al* (2022). *[Experimentation in the Sciences](https://link.springer.com/book/10.1007/978-3-031-58505-0)*, Éditions Matériologiques   
 *[Lato sensu, Revue de la Société de Philosophie des Sciences](https://ojs.uclouvain.be/index.php/latosensu)* [PDF](https://ojs.uclouvain.be/index.php/latosensu/article/view/74323/71263)
