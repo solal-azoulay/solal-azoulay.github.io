@@ -16,6 +16,7 @@ Book chapters
 Work in progress
 ------------
 - Azoulay, S. (*manuscrit in preparation*). "Does experimental economics (really) study *ceteris paribus* laws ?"
+- Azoulay, S. (*manuscrit in preparation*). "The history of French experimental economics : a case study on Strasbourg (1988-2012)"
 
 Book reviews
 ------------
