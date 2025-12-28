@@ -7,7 +7,6 @@
 main: 
   
     - title: "Vitae"
-    url: /vitae/
     children:
     - title: "About"
     url: /vitae/about/
@@ -16,7 +15,7 @@ main:
     url: /vitae/files/cv_2025.pdf
     
   - title: "Research"
-    url: /research/
+  url: /research/
     children:
     - title: "Publications"
     url: /research/publications/
