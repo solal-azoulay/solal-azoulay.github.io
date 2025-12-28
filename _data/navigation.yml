@@ -8,19 +8,11 @@ main:
 
   - title: "Vitae"
     url: /vitae/
-    children:
-      - title: "About"
-        url: /vitae/about/
-      - title: "CV"
-        url: /vitae/cv/
-
-  - title: "Research"
-    url: /research/
-    children:
-      - title: "Publications"
-        url: /research/publications/
-      - title: "Communications"
-        url: /research/Communications/
+    
+  - title: "Publications"
+    url: /publications/
+  - title: "Communications"
+    url: /Communications/
 
   - title: "Teaching"
     url: /teaching/
