@@ -1,9 +1,10 @@
 ---
 permalink: /
-title: ""
+title: "Vitae"
 author_profile: true
 redirect_from: 
   - /about.html
+  - /vitae/
 ---
 About
 =====
