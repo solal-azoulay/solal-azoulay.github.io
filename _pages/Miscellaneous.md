@@ -9,7 +9,7 @@ author_profile: true
 
 ## The future impacts of LLM (and other AI systems) on scientific research
 
-What is the future of scientific research in the new era of LLM like GPTs ?
+*What is the future of scientific research in the new era of LLM like GPTs ?*
 
 This issue is of particular importance for contemporary philosophers of science given the impressively fast development of various generative AIs since 2022.
 
