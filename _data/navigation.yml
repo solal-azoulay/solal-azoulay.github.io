@@ -5,7 +5,6 @@
 # prevent it from being included in the site.
 
 main: 
-  main: 
 
   - title: "Vitae"
     children:
@@ -27,6 +26,7 @@ main:
 
   - title: "Miscellaneous"
     url: /miscellaneous/
+
     
   #- title: "Portfolio"#
     #url: /portfolio/#
