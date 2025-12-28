@@ -2,9 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
-parent: vitae
 redirect_from: 
-  - /vitae/about/
   - /about.html
 ---
 About
