@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Communications"
-permalink: /Communications/
+permalink: /work/Communications/
 author_profile: true
 ---
 (_All French titles below have been translated_)     
