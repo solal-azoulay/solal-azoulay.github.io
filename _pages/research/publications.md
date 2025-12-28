@@ -1,9 +1,8 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /work/publications/
+permalink: /publications/
 author_profile: true
-parent: Research
 ---
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=7yZtUacAAAAJ&hl=fr&oi=ao)
