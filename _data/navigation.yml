@@ -12,7 +12,7 @@ main:
       - title: "About"
         url: /vitae/about/
       - title: "CV"
-        url: /vitae/files/cv_2025.pdf
+        url: /files/cv_2025.pdf
 
   - title: "Research"
     url: /research/
