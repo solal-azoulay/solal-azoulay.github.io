@@ -22,7 +22,10 @@ main:
     url: /Communications/   
 
   - title: "Teaching"
-    url: /teaching/   
+    url: /teaching/      
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/  
     
   #- title: "Portfolio"#
     #url: /portfolio/#
