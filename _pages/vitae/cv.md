@@ -1,11 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /vitae/cv/
 author_profile: true
-parent: vitae
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
