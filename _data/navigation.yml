@@ -14,13 +14,12 @@ main:
   - title: "CV"
     #url: /cv/
     url: /files/cv_2025.pdf
-
-  - title: "Work"
-    children:
-      - title: "Publications"
-        url: /publications/
-      - title: "Communications"
-        url: /Communications/
+    
+  - title: "Publications"
+    url: /publications/
+  
+  - title: "Communications"
+    url: /Communications/
 
   - title: "Teaching"
     url: /teaching/      
