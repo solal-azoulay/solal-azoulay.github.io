@@ -7,7 +7,7 @@
 main: 
 
   - title: "Vitae"
-  url: /vitae/
+    url: /vitae/
     children:
       - title: "About"
         url: /vitae/about/
