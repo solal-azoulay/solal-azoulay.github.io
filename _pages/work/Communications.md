@@ -3,7 +3,7 @@ layout: archive
 title: "Communications"
 permalink: /work/Communications/
 author_profile: true
-parent: work
+parent: Research
 ---
 (_All French titles below have been translated_)     
 
