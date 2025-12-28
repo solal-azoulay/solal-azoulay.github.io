@@ -5,22 +5,24 @@
 # prevent it from being included in the site.
 
 main: 
-  #- title: "About"
-    #url: /about/
   
+    - title: "Vitae"
+    url: /vitae/
+    children:
+    - title: "About"
+    url: /vitae/about/
+    - title: "CV"
+    #url: /cv/
+    url: /vitae/files/cv_2025.pdf
+    
   - title: "Research"
     url: /research/
-
-  - title: "CV"
-    #url: /cv/
-    url: /files/cv_2025.pdf
-    
-  - title: "Publications"
-    url: /publications/
-  
+    children:
+    - title: "Publications"
+    url: /research/publications/
   - title: "Communications"
-    url: /Communications/
-
+    url: /research/Communications/
+  
   - title: "Teaching"
     url: /teaching/      
 
