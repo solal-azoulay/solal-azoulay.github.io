@@ -16,6 +16,7 @@ I am a PhD student in philosophy of science at [AHP-PReST](https://poincare.univ
 
 Research
 =====
+
 Philosophy of experimental economics
 -----------
    
