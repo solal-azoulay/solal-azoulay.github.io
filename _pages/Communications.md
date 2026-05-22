@@ -6,6 +6,22 @@ author_profile: true
 ---
 (_All French titles below have been translated_)     
 
+2026
+------------
+- "Ethnography of the modes of production of economic knowledge: Experimental economics"   
+  [Doctoriales « Economie et Sociologie »](https://assoeconomiepolitique.org/aac-doctoriales-economie-sociologie/), Université de Strasbourg.
+
+- "The epistemology of CP laws in experimental economics"   
+  [LSE Workshop: New Directions in Law-Based Explanations in the Sciences](https://www.lse.ac.uk/philosophy/events/upcoming-events/workshop-new-directions-in-law-based-explanations-in-the-sciences), Centre for Philosophy of Natural and Social Science.
+
+- "Trends and Practices in Experimental Economics : Results of a Questionnaire Survey"   
+  [French Association of Experimental Economics conference](https://asfee2026.sciencesconf.org/).
+
+- "Was external validity an obstacle to the development of experimental economics ? Historical case study on the Strasbourg Laboratory of Experimental Economics (1988-2012)"   
+  [European Society for the History of Economic Thought and History of Economics Society joint conference](https://www.eshet-conference.net/joint-eshet-hes-nice).
+
+- "Was external validity an obstacle to the development of experimental economics ? Historical case study on the Strasbourg Laboratory of Experimental Economics (1988-2012)"   
+  [Augustin Cournot Doctoral Days](acdd.sciencesconf.org/).
 
 2025
 ------------
