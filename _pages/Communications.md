@@ -8,7 +8,7 @@ author_profile: true
 
 2026
 ------------
-- "Ethnography of the modes of production of economic knowledge: Experimental economics"   
+- "Ethnography of the modes of production of an economic knowledge: Experimental economics"   
   [Doctoriales « Economie et Sociologie »](https://assoeconomiepolitique.org/aac-doctoriales-economie-sociologie/), Université de Strasbourg.
 
 - "The epistemology of CP laws in experimental economics"   
