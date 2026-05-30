@@ -20,7 +20,7 @@ author_profile: true
 - "Trends and Practices in Experimental Economics : Results of a Questionnaire Survey"   
   [French Association of Experimental Economics conference](https://asfee2026.sciencesconf.org/).
 
-- "Was external validity an obstacle to the development of experimental economics ? Historical case study on the Strasbourg Laboratory of Experimental Economics (1988-2012)"   
+- Roundtable : "Oral histories"   
   [European Society for the History of Economic Thought and History of Economics Society joint conference](https://www.eshet-conference.net/joint-eshet-hes-nice).
 
 - "Was external validity an obstacle to the development of experimental economics ? Historical case study on the Strasbourg Laboratory of Experimental Economics (1988-2012)"   
