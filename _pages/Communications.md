@@ -14,6 +14,9 @@ author_profile: true
 - "The epistemology of CP laws in experimental economics"   
   [LSE Workshop: New Directions in Law-Based Explanations in the Sciences](https://www.lse.ac.uk/philosophy/events/upcoming-events/workshop-new-directions-in-law-based-explanations-in-the-sciences), Centre for Philosophy of Natural and Social Science.
 
+- "What Sort of Knowledge Do Economic Experiments Produce? A Practical Guide to the Epistemology of Experimental Economics"   
+  [ESA European Meeting, Barcelona](https://eventum.upf.edu/144407/detail/2026-european-meeting-of-the-economic-science-association-esa-in-barcelona.html).
+
 - "Trends and Practices in Experimental Economics : Results of a Questionnaire Survey"   
   [French Association of Experimental Economics conference](https://asfee2026.sciencesconf.org/).
 
