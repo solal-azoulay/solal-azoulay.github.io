@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Book chapters
 ------------
-- Azoulay, S. (*forthcoming*). "The issue of external validity in experimental economics". In Tricard, J. (Ed.), *Metaphysics of induction*
+- Azoulay, S. (2026). "The issue of external validity in experimental economics". In Tricard, J. & Künstler, R. (Ed.), *Metaphysics of induction*
 
 <img src="https://solal-azoulay.github.io/files/Couverture_livre_induction.jpg" alt="Book cover" width="300">
 
