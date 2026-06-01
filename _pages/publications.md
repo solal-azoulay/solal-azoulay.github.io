@@ -15,6 +15,7 @@ Book chapters
 
 ![Book cover](https://solal-azoulay.github.io/files/Couverture_livre_induction.jpg)
 
+<img src="https://solal-azoulay.github.io/files/Couverture_livre_induction.jpg" alt="Book cover" width="300">
 
 
 Work in progress
