@@ -15,7 +15,7 @@ Book chapters
   <div style="flex: 1;">
     Azoulay, S. (*forthcoming*). "The issue of external validity in experimental economics". In Tricard, J. (Ed.), *Metaphysics of induction*
   </div>
-  <img src="https://site/image.jpg" alt="Book cover" width="300">
+  <img src="https://solal-azoulay.github.io/files/Couverture_livre_induction.jpg" alt="Book cover" width="300">
 </div>
 
 
