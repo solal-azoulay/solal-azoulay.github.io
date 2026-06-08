@@ -7,7 +7,7 @@ redirect_from:
 ---
 About
 =====
-*You can access my complete academic CV [here](https://solal-azoulay.github.io/files/cv_2025.pdf).*
+*You can access my complete academic CV [here](https://solal-azoulay.github.io/files/cv_2026.pdf).*
 
 I am a PhD student in philosophy of science at [AHP-PReST](https://poincare.univ-lorraine.fr/) in Strasbourg University since October 2023. My research is dedicated to the methodology of lab experiments in economics and the local history of french experimental economics in Strasbourg.
 
