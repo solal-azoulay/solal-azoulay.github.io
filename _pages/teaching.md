@@ -4,6 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+2026-2027
+------------
+
+
 2025-2026
 ------------
 - **Sociology of science** (*lectures*)   
