@@ -6,7 +6,10 @@ author_profile: true
 ---
 2026-2027
 ------------
-
+- **Introduction to Economic Analysis** (*tutorials*)
+First year degree in Sciences Po, Lyon & St-Etienne, 132h
+- **Introduction to RCTs in Development Economics** (*lectures*)
+First year degree in Sciences Po, Lyon & St-Etienne, 22h
 
 2025-2026
 ------------
